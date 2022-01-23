@@ -1,2 +1,2 @@
-# desafio-dio
-Primeiro repositório que eu crio sozinho
+# Acho q é isso
+Desafio foi bem tranquilinho, terminei em uns 15s
